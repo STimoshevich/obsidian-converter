@@ -2,7 +2,7 @@
 chat_name: "Development"
 chat_type: "private_channel"
 chat_id: 2485160261
-tags: [telegram, chat-index]
+tags: [topic/development, topic/software-engineering]
 ---
 
 # Development
